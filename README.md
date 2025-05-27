@@ -1,12 +1,30 @@
 # React + Vite
+Deployed App: https://elanea.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React – For building the user interface
+React Router – For page navigation
+Context API – For managing global state
+Tailwind CSS – For responsive styling
+React Toastify – For toast notifications
+React Slick – For sliders/carousels
 
-Currently, two official plugins are available:
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_home_1.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_popup.png)
 
-## Expanding the ESLint configuration
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_home_2.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_home_3.png)
+
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_products.png)
+
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_product_detail.png)
+
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_about_1.png)
+
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_about.png)
+
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_favorites.png)
+
+![image alt](https://github.com/AbdullayevaFatma/elanea/blob/f6e7984aef9cd1b618e43ba674cd4bb6ff5149d3/elanea_cart.png)
+
